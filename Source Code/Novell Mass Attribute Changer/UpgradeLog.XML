@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Novell Mass Attribute Changer">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Novell Mass Attribute Changer.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Novell Mass Attribute Changer.suo">
+</Property><Property Name="Date" Value="16 March 2006">
+</Property><Property Name="Time" Value="09:08 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Novell Mass Attribute Changer.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\Novell Mass Attribute Changer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Novell Mass Attribute Changer.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\Novell Mass Attribute Changer.suo">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="Novell Mass Attribute Changer.csproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\Novell Mass Attribute Changer.csproj">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="Novell Mass Attribute Changer.csproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\Novell Mass Attribute Changer.csproj.user">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="Main_Screen.cs" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\Main_Screen.cs">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="SysTray.cs" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\SysTray.cs">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="App.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="Main_Screen.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Novell Mass Attribute Changer - 9 March 2006\Source Code\Novell Mass Attribute Changer\Backup\Main_Screen.resx">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="Novell Mass Attribute Changer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Novell Mass Attribute Changer" Source="Novell Mass Attribute Changer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Novell Mass Attribute Changer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Novell Mass Attribute Changer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Novell Mass Attribute Changer" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Novell Mass Attribute Changer" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
